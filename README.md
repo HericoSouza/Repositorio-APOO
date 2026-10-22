@@ -123,44 +123,6 @@ O projeto estabelece regras para manter a consistência das informações e repr
 - **[GitHub](https://github.com/):** armazenamento, organização e versionamento dos materiais do projeto.
 - **Markdown:** elaboração da documentação do repositório.
 
-## 📂 Estrutura Sugerida do Repositório
-
-Para facilitar a navegação, os arquivos podem ser organizados da seguinte forma:
-
-```text
-Sistema-Gestao-Hospitais-Veterinarios/
-│
-├── README.md
-│
-├── docs/
-│   ├── requisitos/
-│   │   ├── descricao-projeto.pdf
-│   │   ├── requisitos-funcionais.pdf
-│   │   └── requisitos-nao-funcionais.pdf
-│   │
-│   ├── casos-de-uso/
-│   │   ├── documentacao-mcu.pdf
-│   │   ├── diagrama-casos-de-uso.pdf
-│   │   └── descricoes-narrativas.pdf
-│   │
-│   └── analise/
-│       ├── glossario-modelo.pdf
-│       └── diagrama-classes-dominio.pdf
-│
-├── prototipos/
-│   ├── painel-atendimento/
-│   ├── prontuario-animal/
-│   ├── gestao-internacao/
-│   ├── cadastro-animais-tutores/
-│   └── painel-gerencial/
-│
-└── diagramas/
-    ├── casos-de-uso/
-    └── classes-dominio/
-```
-
-*Observação: a estrutura acima é uma sugestão de organização. Os diretórios e arquivos devem ser ajustados aos materiais efetivamente disponibilizados no repositório.*
-
 ## 🔒 Requisitos Não Funcionais
 
 O sistema também considera características necessárias para sua qualidade e confiabilidade:
